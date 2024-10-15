@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A38D3D70-443F-4499-B75B-6656A07CC602}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lushe\\onedrive\\documents\\projects\\microservicearchitecturewithdotnet8\\e-commerceapp\\mango\\mango.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38D3D70-443F-4499-B75B-6656A07CC602}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A38D3D70-443F-4499-B75B-6656A07CC602}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lushe\\onedrive\\documents\\projects\\microservicearchitecturewithdotnet8\\e-commerceapp\\mango\\mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A38D3D70-443F-4499-B75B-6656A07CC602}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38D3D70-443F-4499-B75B-6656A07CC602}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lushe\\onedrive\\documents\\projects\\microservicearchitecturewithdotnet8\\e-commerceapp\\mango\\mango.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38D3D70-443F-4499-B75B-6656A07CC602}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38D3D70-443F-4499-B75B-6656A07CC602}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lushe\\onedrive\\documents\\projects\\microservicearchitecturewithdotnet8\\e-commerceapp\\mango\\mango.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38D3D70-443F-4499-B75B-6656A07CC602}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A38D3D70-443F-4499-B75B-6656A07CC602}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lushe\\onedrive\\documents\\projects\\microservicearchitecturewithdotnet8\\e-commerceapp\\mango\\mango.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\Mango.Services.CouponAPI\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\Mango.Services.CouponAPI\\Models\\Coupon.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:44:37.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\Mango.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\Mango.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:28:12.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\Mango.Services.CouponAPI\\Models\\DTO\\ResponseDTO.cs",
               "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Models\\DTO\\ResponseDTO.cs",
@@ -39,28 +77,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CouponApiController.cs",
               "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\Mango.Services.CouponAPI\\Controllers\\CouponApiController.cs",
               "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Controllers\\CouponApiController.cs",
               "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\Mango.Services.CouponAPI\\Controllers\\CouponApiController.cs",
               "RelativeToolTip": "Mango.Services.CouponAPI\\Controllers\\CouponApiController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAQwDcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T08:28:25.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\Mango.Services.CouponAPI\\Program.cs",
               "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Program.cs",
               "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\Mango.Services.CouponAPI\\Program.cs",
               "RelativeToolTip": "Mango.Services.CouponAPI\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:25:15.428Z"
+              "WhenOpened": "2024-10-06T08:25:15.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "70f4f141-7324-4b28-83cb-c2020ed60807",
+        "Display": 1,
+        "X": 158,
+        "Y": 304,
+        "Width": 1167,
+        "Height": 401,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CouponDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\Mango.Services.CouponAPI\\Models\\DTO\\CouponDTO.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Models\\DTO\\CouponDTO.cs",
+              "ToolTip": "C:\\Users\\lushe\\OneDrive\\Documents\\Projects\\MicroserviceArchitectureWithDotNet8\\E-CommerceApp\\Mango\\Mango.Services.CouponAPI\\Models\\DTO\\CouponDTO.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Models\\DTO\\CouponDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:44:32.827Z",
+              "EditorCaption": ""
             }
           ]
         }
